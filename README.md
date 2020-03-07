@@ -1,1 +1,3 @@
-# holliday_project
+# maven-project
+
+Simple Maven Project
